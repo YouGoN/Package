@@ -6,7 +6,7 @@ from setuptools import setup, find_packages
 
 import alab
 
-version = skrvm.__version__
+version = alab.__version__
 
 if sys.argv[-1] == 'publish':
     if os.system("pip freeze | grep wheel"):
