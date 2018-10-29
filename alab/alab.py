@@ -4,7 +4,7 @@ import numpy.linalg as la
 from scipy.stats import norm
 
 
-class Basealab(BaseEstimator):
+class function():
     
     
 ################################ prepare ########################################################
